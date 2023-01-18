@@ -11,6 +11,8 @@ I'm a software/web developer intrested in every aspect of new technologies. I pu
 * 🧠  I'm learning advanced React library
 * 🤝  I'm open to collaborating on React and native applications
 
+---
+
 ### Skills
 
 
