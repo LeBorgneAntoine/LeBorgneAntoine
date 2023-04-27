@@ -6,10 +6,10 @@ Web developer
 
 I'm a software/web developer intrested in every aspect of new technologies. I put a lot of effort on making every projects my best one.
 
-* 🌍  I'm based in Lorient, France
+* 🌍  I'm based in France
 * ✉️  You can contact me at [le.borgne.antoine.pro@gmail.com](mailto:le.borgne.antoine.pro@gmail.com)
-* 🧠  I'm learning advanced React library
-* 🤝  I'm open to collaborating on React and native applications
+* 🧠  I'm currently NextJS 13 & Tailwind
+* 🤝  I'm open to collaborating on React and React Native applications
 
 ---
 
