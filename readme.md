@@ -8,7 +8,7 @@ I'm a software/web developer intrested in every aspect of new technologies. I pu
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [le.borgne.antoine.pro@gmail.com](mailto:le.borgne.antoine.pro@gmail.com)
-* 🧠  I'm currently NextJS 13 & Tailwind
+* 🧠  I'm currently learing NextJS 13 & Tailwind
 * 🤝  I'm open to collaborating on React and React Native applications
 
 ---
